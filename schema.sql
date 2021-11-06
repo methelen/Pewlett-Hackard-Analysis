@@ -36,3 +36,5 @@ CREATE TABLE salaries (
 );
 
 SELECT * FROM departments;
+
+
