@@ -8,7 +8,7 @@ Pewlett-Hackard requested analysis on the "silver tsunami" as many current emplo
 
 - Senior Staff and Senior Engineers make up 63.8% of the "silver tsunami"
 - Engineers make up 50% of the "silver tsunami"
-- There are 748 engineers in the mentorship grouping
+- Engineers make up 48.3% of the mentorship group
 - The "silver tsunami" group outnumbers the mentorship group over 58-1 
 
 ## Summary
