@@ -12,7 +12,7 @@ Pewlett-Hackard requested analysis on the "silver tsunami" as many current emplo
 - The "silver tsunami" group outnumbers the mentorship group over 58-1 
 
 ## Summary
-There will be 90,398 roles to be filled as current employees reach retirement age. There currently are 1,549 current employees that could mentor the new hires within the company.
+There will be 90,398 roles to be filled as current employees reach retirement age. There currently are 1,549 current employees that could mentor the new hires within the company. This is a concern as the ratio of retirees to mentors is 58-1.
 
 Additional analysis to see what titles the retirees currently hold.
 
