@@ -11,8 +11,8 @@ Pewlett-Hackard requested analysis on the "silver tsunami" as many current emplo
 
 ![image](https://user-images.githubusercontent.com/90434010/140674856-07dd8738-eec1-4fe7-a4d2-84fc557a72a2.png)
 
-- There are 748 Engineers in the mentorship grouping
-- 
+- There are 748 engineers in the mentorship grouping
+- The "silver tsunami" group outnumbers the mentorship group over 58-1 
 
 ## Summary
 There will be 90,398 roles to be filled as current employees reach retirement age. There currently are 1,549 current employees that could mentor the new hires within the company.
